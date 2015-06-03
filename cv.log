@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.5.18)  3 JUN 2015 11:52
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.5.18)  3 JUN 2015 17:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,12 +1270,12 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 119.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
@@ -1283,7 +1283,7 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 Here is how much of TeX's memory you used:
  39145 strings out of 493918
  714762 string characters out of 6150563
- 1105469 words of memory out of 5000000
+ 1107469 words of memory out of 5000000
  41984 multiletter control sequences out of 15000+600000
  4240 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
