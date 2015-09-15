@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.5.18)  3 JUN 2015 17:09
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.5.18)  15 SEP 2015 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,6 +1263,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Missing character: There is no ♥ in font [texgyreheros-regular.otf]/ICU:script=
 latn;language=DFLT;mapping=tex-text;!
 
+Underfull \hbox (badness 6592) in paragraph at lines 119--119
+\EU1/texgyreheros-regular.otf(1)/m/n/10 This Android Application shows Delhi Un
+iversity news provided by
+ []
+
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -1270,12 +1275,12 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 119.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 120.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
